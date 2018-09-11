@@ -1,7 +1,7 @@
 # Deep Politics
 Prediction of Spanish Political Affinity with Deep Neural Nets: Socialist vs People's Party (PSOE vs PP)
 
-**Note: This project is just an academic intent to understand the human face characteristics for the social life. It is NOT an intent to invade the personal privacy! There is no public database or model to be used for predictions. The model is based on a very small number of cases and, therefore, it is not good enough for accurate applications.**
+**Note: This project is just an academic intent to understand the human face characteristics for social studies. It is NOT an intent to invade the personal privacy! There is no public database or model to be used for predictions. The model is based on a very small number of cases and, therefore, it is not good enough for accurate applications.**
 
 ### Task to solve
 
