@@ -13,6 +13,8 @@ I know only few Spanish politicians. But watching Spanish TV, I started to guess
 
 ### Method
 
+![Deep Politics Flow](images/CNN4Politics.png)
+
 * Database = crops from politician's photos from Google Search: 50 random photos for PSOE + 50 random photos for PP  + *data augmentation*.
 * Network topology: small Convolutional Neural Networks (CNNs) or pre-trained VGG16.
 * Tools: Keras, Tensorflow, jupyter notebooks.
