@@ -31,4 +31,4 @@ I know only few Spanish politicians. But watching Spanish TV, I started to guess
 * [FineTuningVGG16.ipynb](FineTuningVGG16.ipynb): **Fine Tuning** of a pre-trained VGG16 with the Imagenet weights: training of 2 last Conv block of VGG16 + FC, you can obtain test **accuracy of 85%**!
 
 ### Acknowledgements
-I gratefully acknowledge the support of NVIDIA Corporation with the donation of the Titan Xp GPU used for this research (https://developer.nvidia.com/academic_gpu_seeding).
+I gratefully acknowledge the support of NVIDIA Corporation with the donation of the Titan Xp GPU used for this research (https://developer.nvidia.com/academic_gpu_seeding). The entire project was done at RNASA-IMEDIR group, Computer Science Faculty, University of A Coruna, Spain.
