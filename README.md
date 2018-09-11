@@ -18,6 +18,7 @@ I know only few Spanish politicians. But watching Spanish TV, I started to guess
 * Database = crops from politician's photos from Google Search: 50 random photos for PSOE + 50 random photos for PP  + *data augmentation*.
 * Network topology: small Convolutional Neural Networks (CNNs) or pre-trained VGG16.
 * Tools: Keras, Tensorflow, jupyter notebooks.
+* Hardware: desktop Win 10, Intel i7, 16 G RAM, GPU Nvidia Titan Xp.
 * Input image dimensions: 150 x 150 pixels.
 * Sets: 80 phoos for training, 20 photos for testing
 * Output: PSOE or PP classes.
