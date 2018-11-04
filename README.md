@@ -3,6 +3,10 @@ Prediction of Spanish Political Affinity with Deep Neural Nets: Socialist vs Peo
 
 **Note: This project is just an academic intent to understand the human face characteristics for social studies. It is NOT an intent to invade the personal privacy! There is no public database or model to be used for predictions. The model is based on a very small number of cases and, therefore, it is not good enough for accurate applications.**
 
+### How to test online
+
+You can run the jupyter notebooks online and free with mybinder: https://mybinder.org/v2/gh/muntisa/Deep-Politics.
+
 ### Task to solve
 
 Do you think that the political affinity could be read from our face, just using a portrait photo?
