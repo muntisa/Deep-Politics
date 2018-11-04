@@ -5,7 +5,7 @@ Prediction of Spanish Political Affinity with Deep Neural Nets: Socialist vs Peo
 
 ### Run the project (online)
 
-You can run the jupyter notebooks online and free with mybinder: https://mybinder.org/v2/gh/muntisa/Deep-Politics.
+You can run the jupyter notebooks online and free with mybinder: https://mybinder.org/v2/gh/muntisa/Deep-Politics/master/.
 
 ### Task to solve
 
